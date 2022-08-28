@@ -1,0 +1,12 @@
+.row {
+    margin-top: 200px;
+    font-size: 60px;
+    color: black;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(29, 156, 246);
+    display: flex;
+    justify-content: center;
+}
